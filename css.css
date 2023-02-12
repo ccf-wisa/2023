@@ -2,8 +2,8 @@
 
 a:link {color: #072FCF;}
 a:visited {color: #072FCF;}
-a:hover {color: #FFFFFF;}
-a:active {color: #FFFFFF;}·
+/* a:hover {color: #FFFFFF;}
+a:active {color: #FFFFFF;}· */
 .left {float: left;}
 .right {float: right;}
 .clear {clear: both;}
